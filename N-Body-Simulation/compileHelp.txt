@@ -1,0 +1,3 @@
+Whenever you run a program with openmp you need to compile with the openmp package like this
+
+g++ -fopenmp "filename" -o output 
